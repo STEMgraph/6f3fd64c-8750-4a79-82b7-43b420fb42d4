@@ -1,6 +1,7 @@
 <!---
 {
   "id": "6f3fd64c-8750-4a79-82b7-43b420fb42d4",
+  "teaches": "Using Foreground and Background Colors in the Linux Terminal",
   "author": "Stephan Bökelmann",
   "depends_on": ["cdd3d87d-0e87-4a00-a676-83ca9f245bd7"],
   "first_used": "2025-03-20",
